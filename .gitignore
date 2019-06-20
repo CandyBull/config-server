@@ -1,0 +1,9 @@
+node_modules
+.vscode
+yarn.lock
+package-lock.json
+.idea
+logs
+leveldb
+build
+init.json

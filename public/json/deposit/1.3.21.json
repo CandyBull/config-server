@@ -1,0 +1,53 @@
+{
+	"id": "1.3.21",
+	"icon_cn": {
+		"img_url": "https://static-assets.51nebula.com/asset-symbols/GNX.png",
+		"link": ""
+	},
+	"icon_en": {
+		"img_url": "https://static-assets.51nebula.com/asset-symbols/GNX.png",
+		"link": ""
+	},
+	"msg_cn": [{
+			"key": "项目名称",
+			"value": "Genaro Network",
+			"link": ""
+		},
+		{
+			"key": "协议地址",
+			"value": "0x6ec8a24cabdc339a06a172f8223ea557055adaa5",
+			"link":"https://etherscan.io/token/0x6ec8a24cabdc339a06a172f8223ea557055adaa5"
+		}
+	],
+	"msg_en": [{
+			"key": "Project Name",
+			"value": "Genaro Network",
+			"link": ""
+		},
+		{
+			"key": "Protocol Address",
+			"value": "0x6ec8a24cabdc339a06a172f8223ea557055adaa5",
+			"link":"https://etherscan.io/token/0x6ec8a24cabdc339a06a172f8223ea557055adaa5"
+		}
+	],
+	"notice_cn": {
+		"title": "注意！",
+		"main": "请务必只充入GNX资产",
+		"adds": [{
+			"text": "禁止向GNX地址充值除GNX之外的资产，否则将不可找回"
+		}, {
+			"text": "使用GNX地址充值需要30个网络确认才能到账"
+		}]
+
+	},
+	"notice_en": {
+		"title": "Important!",
+		"main": "Deposit GNX Only",
+		"adds": [{
+				"text": "Send only GNX to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit"
+			}, {
+				"text": "Coins will be deposited immediately after 30 network confirmations"
+			}
+		]
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"id": "1.3.27",
+	"icon_cn": {
+		"img_url": "https://static-assets.51nebula.com/asset-symbols/USDT.png",
+		"link": ""
+	},
+	"icon_en": {
+		"img_url": "https://static-assets.51nebula.com/asset-symbols/USDT.png",
+		"link": ""
+	},
+	"msg_cn": [{
+			"key": "项目名称",
+			"value": "Tether",
+			"link": ""
+		},
+		{
+			"key": "协议地址",
+			"value": "",
+			"link": ""
+		}
+	],
+	"msg_en": [{
+			"key": "Project Name",
+			"value": "Tether",
+			"link": ""
+		},
+		{
+			"key": "Protocol Address",
+			"value": "",
+			"link": ""
+		}
+	],
+	"notice_cn": {
+		"title": "注意！",
+		"main": "请务必只充入OMNI链的USDT资产",
+		"adds": [{
+			"text": "只支持OMNI链的USDT充值，充入其他资产将不可找回"
+		},{
+			"text": "使用USDT地址充值需要2个网络确认才能到账"
+		}]
+
+	},
+	"notice_en": {
+		"title": "Important!",
+		"main": "Deposit USDT based OMNI Only",
+		"adds": [{
+				"text": "Send only USDT based on OMNI to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit"
+			}, {
+				"text": "Coins will be deposited immediately after 2 network confirmations"
+			}
+		]
+	}
+}

@@ -1,0 +1,5 @@
+{
+  "enMsg": " You can add assets quickly and easily to your Cybex account.\nThis free service is provided by Cybex gateway.\nIt may take some time for each transfer to confirm, please kindly be patient.\n* The address display on this page is only available for $asset, please don't deposit other asset into it.",
+  "cnMsg": " 您可以快速方便的充入资金到您的Cybex账户中。\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务。 \n同一账户同一资产充值地址需间隔五分钟才可重新生成\n所有出入金到账需要一定时限，请耐心等待 \n* 您当前所获取的资产地址仅用于充入$asset，请勿充入其他资产，否则可能无法到账且不可找回"
+ }
+ 

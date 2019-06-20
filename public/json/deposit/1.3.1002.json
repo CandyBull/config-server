@@ -1,0 +1,53 @@
+{
+	"id": "1.3.1002",
+	"icon_cn": {
+		"img_url": "https://static-assets.51nebula.com/asset-symbols/NWT.png",
+		"link": ""
+	},
+	"icon_en": {
+		"img_url": "https://static-assets.51nebula.com/asset-symbols/NWT.png",
+		"link": ""
+	},
+	"msg_cn": [{
+			"key": "项目名称",
+			"value": "NeoWorld Token",
+			"link": ""
+		},
+		{
+			"key": "协议地址",
+			"value": "0x179201b6d8f1d984fae733313a5035e20d4f4869",
+			"link":"https://etherscan.io/token/0x179201b6d8f1d984fae733313a5035e20d4f4869"
+		}
+	],
+	"msg_en": [{
+			"key": "Project Name",
+			"value": "NeoWorld Token",
+			"link": ""
+		},
+		{
+			"key": "Protocol Address",
+			"value": "0x179201b6d8f1d984fae733313a5035e20d4f4869",
+			"link":"https://etherscan.io/token/0x179201b6d8f1d984fae733313a5035e20d4f4869"
+		}
+	],
+	"notice_cn": {
+		"title": "注意！",
+		"main": "请务必只充入NWT资产",
+		"adds": [{
+			"text": "禁止向NWT地址充值除NWT之外的资产，否则将不可找回"
+		}, {
+			"text": "使用NWT地址充值需要30个网络确认才能到账"
+		}]
+
+	},
+	"notice_en": {
+		"title": "Important!",
+		"main": "Deposit NWT Only",
+		"adds": [{
+				"text": "Send only NWT to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit"
+			}, {
+				"text": "Coins will be deposited immediately after 30 network confirmations"
+			}
+		]
+	}
+}

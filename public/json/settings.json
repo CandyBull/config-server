@@ -1,0 +1,7 @@
+{
+	"isETOEnabled": true,
+	"isShareEnabled": false,
+	"contestEnabled": false,
+	"ageRate" : 0.975,
+	"gateWay2" : false
+}

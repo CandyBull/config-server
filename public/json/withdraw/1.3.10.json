@@ -1,0 +1,54 @@
+{
+	"id": "1.3.10",
+	"icon_cn": {
+		"img_url": "https://static-assets.51nebula.com/asset-symbols/KNC.png",
+		"link": ""
+	},
+	"icon_en": {
+		"img_url": "https://static-assets.51nebula.com/asset-symbols/KNC.png",
+		"link": ""
+	},
+	"msg_cn": [{
+			"key": "项目名称",
+			"value": "Kyber Network",
+			"link": ""
+		},
+		{
+			"key": "协议地址",
+			"value": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+			"link":"https://etherscan.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200"
+		}
+	],
+	"msg_en": [{
+			"key": "Project Name",
+			"value": "Kyber Network",
+			"link": ""
+		},
+		{
+			"key": "Protocol Address",
+			"value": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+			"link":"https://etherscan.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200"
+		}
+	],
+	"notice_cn": {
+		"title": "注意！",
+		"main": "当前是KNC提现",
+
+		"adds": [{
+			"text": "提现手续费将以您希望取出的目标资产支付，从您的提取金额中扣除。转账手续费使用CYB支付，如果CYB余额不足，将使用您希望取出的目标资产支付"
+		}, {
+			"text": "提币到合约地址或ICO地址会导致转账失败"
+		}]
+
+	},
+	"notice_en": {
+		"title": "Important!",
+		"main": "Withdraw KNC",
+		
+		"adds": [{
+			"text": "Withdraw fee will be deducted by the target asset from the withdraw amount. While transfer fee is paid by CYB. If your CYB balance is insufficient, a fraction of the transfer will pay it"
+		}, {
+			"text": "Do not withdraw directly to a contract address or ICO address"
+		}]
+	}
+}

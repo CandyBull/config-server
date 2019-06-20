@@ -1,0 +1,71 @@
+{
+  "market_issuer": "1.2.29",
+  "bases": {
+    "CYB": [
+      "JADE.INK",
+      "JADE.SNT",
+      "JADE.EOS",
+      "JADE.BAT",
+      "JADE.PAY",
+      "JADE.NAS",
+      "JADE.TCT",
+      "JADE.DPY",
+      "JADE.GNX",
+      "JADE.CTXC",
+      "JADE.XRP",
+      "JADE.RING",
+      "JADE.NASH"
+    ],
+    "JADE.BTC": [
+      "JADE.LTC",
+      "JADE.MXC",
+      "JADE.QLC"
+    ],
+    "JADE.ETH": [
+      "CYB",
+      "JADE.LHT",
+      "JADE.MT",
+      "JADE.EOS",
+      "JADE.DPY",
+      "JADE.PPT",
+      "JADE.TCT",
+      "JADE.GNX",
+      "JADE.MVP",
+      "JADE.MKR",
+      "JADE.FUN",
+      "JADE.VET",
+      "JADE.CTXC",
+      "JADE.JCT",
+      "JADE.OMG",
+      "JADE.POLY",
+      "JADE.CENNZ",
+      "JADE.NES",
+      "JADE.XRP",
+      "JADE.NASH",
+      "JADE.RING",
+      "JADE.ATOM",
+      "JADE.IRIS",
+      "JADE.LC"
+    ],
+    "JADE.USDT": [
+      "CYB",
+      "JADE.ETH",
+      "JADE.BTC",
+      "JADE.EOS",
+      "JADE.LTC",
+      "JADE.XRP",
+      "JADE.MXC",
+      "JADE.RING",
+      "JADE.NWT",
+      "JADE.ATOM",
+      "JADE.LC",
+      "JADE.DOT",
+      "JADE.QLC"
+     ],
+    "ARENA.USDT": [
+      "ARENA.EOS",
+      "ARENA.ETH",
+      "ARENA.BTC"
+    ]
+  }
+}

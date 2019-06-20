@@ -1,0 +1,53 @@
+{
+	"id": "1.3.24",
+	"icon_cn": {
+		"img_url": "https://static-assets.51nebula.com/asset-symbols/DPY.png",
+		"link": ""
+	},
+	"icon_en": {
+		"img_url": "https://static-assets.51nebula.com/asset-symbols/DPY.png",
+		"link": ""
+	},
+	"msg_cn": [{
+			"key": "项目名称",
+			"value": "Delphy",
+			"link": ""
+		},
+		{
+			"key": "协议地址",
+			"value": "0x6c2adc2073994fb2ccc5032cc2906fa221e9b391",
+			"link":"https://etherscan.io/token/0x6c2adc2073994fb2ccc5032cc2906fa221e9b391"
+		}
+	],
+	"msg_en": [{
+			"key": "Project Name",
+			"value": "Delphy",
+			"link": ""
+		},
+		{
+			"key": "Protocol Address",
+			"value": "0x6c2adc2073994fb2ccc5032cc2906fa221e9b391",
+			"link":"https://etherscan.io/token/0x6c2adc2073994fb2ccc5032cc2906fa221e9b391"
+		}
+	],
+	"notice_cn": {
+		"title": "注意！",
+		"main": "请务必只充入DPY资产",
+		"adds": [{
+			"text": "禁止向DPY地址充值除DPY之外的资产，否则将不可找回"
+		}, {
+			"text": "使用DPY地址充值需要30个网络确认才能到账"
+		}]
+
+	},
+	"notice_en": {
+		"title": "Important!",
+		"main": "Deposit DPY Only",
+		"adds": [{
+				"text": "Send only DPY to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit"
+			}, {
+				"text": "Coins will be deposited immediately after 30 network confirmations"
+			}
+		]
+	}
+}

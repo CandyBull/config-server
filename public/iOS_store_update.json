@@ -1,0 +1,13 @@
+{
+	"version": "1.7.0",
+	"url": "https://dwz.cn/vvLcUQXe",
+	"cnUpdateInfo": "1.优化K线数据\n2.新增聊天室功能\n3.新增交易币种XRP\n",
+    "enUpdateInfo": "1.K line graph optimization\n2.Add chat room for exchange\n3.Support XRP\n",
+	"force": {
+		"1.4.0": false,
+		"1.5.0": false,
+		"1.5.1": false,
+		"1.6.0": false,
+		"1.6.1": false
+	}
+}

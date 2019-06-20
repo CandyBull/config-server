@@ -1,0 +1,40 @@
+[{
+	"asset": "BTC",
+	"explorer": "https://live.blockcypher.com/btc/tx/"
+}, {
+	"asset": "USDT",
+	"explorer": "https://www.omniexplorer.info/tx/"
+}, {
+	"asset": "ETH",
+	"explorer": "https://etherscan.io/tx/"
+}, {
+	"asset": "GAS",
+	"explorer": "https://neoscan.io/transaction/"
+}, {
+	"asset": "EOS",
+	"explorer": "https://eosflare.io/tx/"
+}, {
+	"asset": "LC",
+	"explorer": "https://eosflare.io/tx/"
+}, {
+	"asset": "LTC",
+	"explorer": "https://chain.so/tx/LTC/"
+}, {
+	"asset": "QTUM",
+	"explorer": "https://explorer.qtum.org/tx/"
+}, {
+	"asset": "XRP",
+	"explorer": "https://xrpcharts.ripple.com/#/transactions/"
+}, {
+	"asset": "ATOM",
+	"explorer": "https://cosmos.bigdipper.live/transactions/"
+}, {
+	"asset": "IRIS",
+	"explorer": "https://www.irisplorer.io/#/tx?txHash="
+}, {
+	"asset": "VET",
+	"explorer": "https://explore.veforge.com/transactions/"
+}, {
+	"asset": "QLC",
+	"explorer": "https://neotracker.io/tx/"
+}]

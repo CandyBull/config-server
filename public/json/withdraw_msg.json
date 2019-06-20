@@ -1,0 +1,4 @@
+{
+  "enMsg": "You are going to withdraw assets from your Cybex account to your external $asset account. \nThe withdrawal service is not free, Cybex gateway will charge the service fee. \nPlease make sure that your withdrawal address is correct, otherwise you may lose your tokens permanently. \nIt may take some time for each transfer to confirm, please kindly be patient. \nPlease use your personal wallet address only. Any smart contract address, exchange deposit address or ICO related address used for withdrawal could result in failed contract execution and transfer.",
+  "cnMsg": " 您将提出您的$asset到外部地址。\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务。 \n网关执行手续费将以您希望取出的目标资产支付，并从您提取金额中扣除\n提现过程中还将执行一次Cybex内盘转账，该部分手续费使用CYB支付，如果CYB余额不足，将使用您希望取出的目标资产支付 \n* 请务必确认您的提币地址正确，一旦填写错误，您的资产将丢失 \n* 所有出入金到账需要一定时限，请耐心等待 \n提币操作请使用您的个人钱包地址。提币到合约地址、交易所地址、ICO项目地址可能会发生合约执行失败，将导致转账失败，资产将退回到您的Cybex账户，处理时间较长，请您谅解"
+}

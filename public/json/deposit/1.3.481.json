@@ -1,0 +1,53 @@
+{
+	"id": "1.3.481",
+	"icon_cn": {
+		"img_url": "https://static-assets.51nebula.com/asset-symbols/MKR.png",
+		"link": ""
+	},
+	"icon_en": {
+		"img_url": "https://static-assets.51nebula.com/asset-symbols/MKR.png",
+		"link": ""
+	},
+	"msg_cn": [{
+			"key": "项目名称",
+			"value": "Maker",
+			"link": ""
+		},
+		{
+			"key": "协议地址",
+			"value": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+			"link":"https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+		}
+	],
+	"msg_en": [{
+			"key": "Project Name",
+			"value": "Maker",
+			"link": ""
+		},
+		{
+			"key": "Protocol Address",
+			"value": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+			"link":"https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+		}
+	],
+	"notice_cn": {
+		"title": "注意！",
+		"main": "请务必只充入MKR资产",
+		"adds": [{
+			"text": "禁止向MKR地址充值除MKR之外的资产，否则将不可找回"
+		}, {
+			"text": "使用MKR地址充值需要30个网络确认才能到账"
+		}]
+
+	},
+	"notice_en": {
+		"title": "Important!",
+		"main": "Deposit MKR Only",
+		"adds": [{
+				"text": "Send only MKR to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit"
+			}, {
+				"text": "Coins will be deposited immediately after 30 network confirmations"
+			}
+		]
+	}
+}

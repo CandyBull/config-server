@@ -1,0 +1,406 @@
+[{
+	"id": "1.3.2",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName":  "Ethereum",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only ETH to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中 \n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用ETH地址充值需要40个网络确认才能到账\n禁止向ETH地址充值除 ETH之外的资产，任何充入 ETH 地址的非 ETH资产将不可找回"
+}, {
+	"id": "1.3.3",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Bitcoin",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 6 network confirmations\nSend only BTC to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用BTC地址充值需要6个网络确认才能到账\n禁止向BTC地址充值除BTC之外的资产，任何充入BTC地址的非BTC资产将不可找回"
+}, {
+	"id": "1.3.26",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Litecoin",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 6 network confirmations\nSend only LTC to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用LTC地址充值需要6个网络确认才能到账\n禁止向LTC地址充值除LTC之外的资产，任何充入LTC地址的非LTC资产将不可找回"
+}, {
+	"id": "1.3.27",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统维护中，暂停服务",
+	"projectName": "Tether",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 6 network confirmations\nSend only USDT to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n 使用USDT地址充值需要6个网络确认才能到账\n禁止向USDT地址充值除USDT之外的资产，任何充入USDT地址的非USDT资产将不可找回"
+}, {
+	"id": "1.3.28",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Ink [QTUM]",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only INK to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用INK地址充值需要40个网络确认才能到账\n禁止向INK地址充值除INK之外的资产，任何充入INK地址的非INK资产将不可找回"
+}, {
+	"id": "1.3.6",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Basic Attention Token",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only BAT to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用BAT地址充值需要40个网络确认才能到账\n禁止向BAT地址充值除BAT之外的资产，任何充入BAT地址的非BAT资产将不可找回"
+}, {
+	"id": "1.3.8",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "OmiseGO",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only OMG to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用OMG地址充值需要40个网络确认才能到账\n禁止向OMG地址充值除OMG之外的资产，任何充入OMG地址的非OMG资产将不可找回"
+}, {
+	"id": "1.3.5",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Status",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only SNT to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用SNT地址充值需要40个网络确认才能到账\n禁止向SNT地址充值除SNT之外的资产，任何充入SNT地址的非SNT资产将不可找回"
+}, {
+	"id": "1.3.9",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Nebulas",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only NAS to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用NAS地址充值需要40个网络确认才能到账\n禁止向NAS地址充值除NAS之外的资产，任何充入NAS地址的非NAS资产将不可找回"
+}, {
+	"id": "1.3.10",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Kyber Network",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only KNC to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用KNC地址充值需要40个网络确认才能到账\n禁止向KNC地址充值除KNC之外的资产，任何充入KNC地址的非KNC资产将不可找回"
+}, {
+	"id": "1.3.11",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "TenX",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only PAY to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用PAY地址充值需要40个网络确认才能到账\n禁止向PAY地址充值除PAY之外的资产，任何充入PAY地址的非PAY资产将不可找回"
+}, {
+	"id": "1.3.17",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Global Escrow Token, Themis",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only GET to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用GET地址充值需要40个网络确认才能到账\n禁止向GET地址充值除GET之外的资产，任何充入GET地址的非GET资产将不可找回"
+}, {
+	"id": "1.3.20",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "MAD Network",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only MAD to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用MAD地址充值需要40个网络确认才能到账\n禁止向MAD地址充值除MAD之外的资产，任何充入MAD地址的非MAD资产将不可找回"
+}, {
+	"id": "1.3.430",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Merculet",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only MVP to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用MVP地址充值需要40个网络确认才能到账\n禁止向MVP地址充值除MVP之外的资产，任何充入MVP地址的非MVP资产将不可找回"
+}, {
+	"id": "1.3.429",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Golem",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only GNT to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用GNT地址充值需要40个网络确认才能到账\n禁止向GNT地址充值除GNT之外的资产，任何充入GNT地址的非GNT资产将不可找回"
+}, {
+	"id": "1.3.24",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Delphy",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only DPY to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用DPY地址充值需要40个网络确认才能到账\n禁止向DPY地址充值除DPY之外的资产，任何充入DPY地址的非DPY资产将不可找回"
+}, {
+	"id": "1.3.21",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Genaro Network",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only GNX to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用GNX地址充值需要40个网络确认才能到账\n禁止向GNX地址充值除GNX之外的资产，任何充入GNX地址的非GNX资产将不可找回"
+}, {
+	"id": "1.3.22",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Bihu KEY",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only KEY to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用KEY地址充值需要40个网络确认才能到账\n禁止向KEY地址充值除KEY之外的资产，任何充入KEY地址的非KEY资产将不可找回"
+}, {
+	"id": "1.3.19",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "MyToken",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only MT to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用MT地址充值需要40个网络确认才能到账\n禁止向MT地址充值除MT之外的资产，任何充入MT地址的非MT资产将不可找回"
+}, {
+	"id": "1.3.481",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Maker",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only MKR to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用MKR地址充值需要40个网络确认才能到账\n禁止向MKR地址充值除MKR之外的资产，任何充入MKR地址的非MKR资产将不可找回"
+}, {
+	"id": "1.3.482",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "FunFair",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only FUN to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用FUN地址充值需要40个网络确认才能到账\n禁止向FUN地址充值除FUN之外的资产，任何充入FUN地址的非FUN资产将不可找回"
+}, {
+	"id": "1.3.23",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "TokenClub",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only TCT to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用TCT地址充值需要40个网络确认才能到账\n禁止向TCT地址充值除TCT之外的资产，任何充入TCT地址的非TCT资产将不可找回"
+}, {
+	"id": "1.3.12",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Enigma",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only ENG to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用ENG地址充值需要40个网络确认才能到账\n禁止向ENG地址充值除ENG之外的资产，任何充入ENG地址的非ENG资产将不可找回"
+}, {
+	"id": "1.3.302",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "LongHash",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only LHT to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用LHT地址充值需要40个网络确认才能到账\n禁止向LHT地址充值除LHT之外的资产，任何充入LHT地址的非LHT资产将不可找回"
+}, {
+	"id": "1.3.4",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "EOS",
+	"tag": true,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nThe same account recharge notes of the same account must be separated by five minutes before it can be regenerated\nRemarks and addresses are used together to recharge correctly\nCoins will be deposited immediately after 336 network confirmations\nSend only EOS to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n同一账户同一资产充值备注需间隔五分钟才可重新生成\n备注和和账户同时使用才能正确充值\n使用EOS账户充值需要336个网络确认才能到账\n禁止向EOS账户充值除EOS之外的资产，任何充入EOS账户的非EOS资产将不可找回"
+}, {
+	"id": "1.3.499",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Populous",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only PPT to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用PPT地址充值需要40个网络确认才能到账\n禁止向PPT地址充值除PPT之外的资产，任何充入PPT地址的非PPT资产将不可找回"
+}, {
+	"id": "1.3.500",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "RChain",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only RHOC to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用RHOC地址充值需要40个网络确认才能到账\n禁止向RHOC地址充值除RHOC之外的资产，任何充入RHOC地址的非RHOC资产将不可找回"
+}, {
+	"id": "1.3.501",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Genesis Space",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only NES to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用NES地址充值需要40个网络确认才能到账\n禁止向NES地址充值除NES之外的资产，任何充入NES地址的非NES资产将不可找回"
+}, {
+	"id": "1.3.506",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Cortex",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only CTXC to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用CTXC地址充值需要40个网络确认才能到账\n禁止向CTXC地址充值除CTXC之外的资产，任何充入CTXC地址的非CTXC资产将不可找回"
+}, {
+	"id": "1.3.592",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Herdius",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only HER to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用HER地址充值需要40个网络确认才能到账\n禁止向HER地址充值除HER之外的资产，任何充入HER地址的非HER资产将不可找回"
+}, {
+	"id": "1.3.654",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "JCT",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only JCT to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用JCT地址充值需要40个网络确认才能到账\n禁止向JCT地址充值除JCT之外的资产，任何充入JCT地址的非JCT资产将不可找回"
+}, {
+	"id": "1.3.633",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Monaco",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only MCO to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用MCO地址充值需要40个网络确认才能到账\n禁止向MCO地址充值除MCO之外的资产，任何充入MCO地址的非MCO资产将不可找回"
+}, {
+	"id": "1.3.996",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Polymath",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only POLY to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用POLY地址充值需要40个网络确认才能到账\n禁止向POLY地址充值除POLY之外的资产，任何充入POLY地址的非POLY资产将不可找回"
+}, {
+	"id": "1.3.997",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Centrality",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only CENNZ to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用CENNZ地址充值需要40个网络确认才能到账\n禁止向CENNZ地址充值除CENNZ之外的资产，任何充入CENNZ地址的非CENNZ资产将不可找回"
+}, {
+	"id": "1.3.998",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "NeoWorld Cash",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmations\nSend only NASH to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用NASH地址充值需要40个网络确认才能到账\n禁止向NASH地址充值除NASH之外的资产，任何充入NASH地址的非NASH资产将不可找回"
+}, {
+	"id": "1.3.999",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Ripple",
+	"tag": true,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 1 network confirmation\nSend only XRP to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用XRP地址充值需要1个网络确认才能到账\n禁止向XRP地址充值除XRP之外的资产，任何充入XRP地址的非XRP资产将不可找回"
+}, {
+	"id": "1.3.1000",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Machine Xchange Coin",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmation\nSend only MXC to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用MXC地址充值需要40个网络确认才能到账\n禁止向MXC地址充值除MXC之外的资产，任何充入MXC地址的非MXC资产将不可找回"
+}, {
+	"id": "1.3.1001",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "Evolution Land Global Token",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmation\nSend only RING to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用RING地址充值需要40个网络确认才能到账\n禁止向RING地址充值除RING之外的资产，任何充入RING地址的非RING资产将不可找回"
+}, {
+	"id": "1.3.1002",
+	"enable": true,
+	"enMsg": "Temporarily not available due to system maintenance",
+	"cnMsg": "系统升级中，暂停服务",
+	"projectName": "NeoWorld Token",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 40 network confirmation\nSend only NWT to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用RING地址充值需要40个网络确认才能到账\n禁止向RING地址充值除RING之外的资产，任何充入RING地址的非RING资产将不可找回"
+}, {
+	"id": "1.3.1382",
+	"enable": true,
+	"enMsg": "Cosmos hardfork",
+	"cnMsg": "Cosmos硬分叉",
+	"projectName": "Cosmos",
+	"tag": true,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 2 network confirmation\nSend only NWT to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用RING地址充值需要40个网络确认才能到账\n禁止向RING地址充值除RING之外的资产，任何充入RING地址的非RING资产将不可找回"
+}, {
+	"id": "1.3.1383",
+	"enable": true,
+	"enMsg": "Currently not available",
+	"cnMsg": "钱包维护中",
+	"projectName": "IRISnet",
+	"tag": true,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 2 network confirmation\nSend only NWT to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用RING地址充值需要40个网络确认才能到账\n禁止向RING地址充值除RING之外的资产，任何充入RING地址的非RING资产将不可找回"
+}, {
+	"id": "1.3.502",
+	"enable": true,
+	"enMsg": "Currently not available",
+	"cnMsg": "即将开放，敬请期待",
+	"projectName": "Vechain",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 2 network confirmation\nSend only NWT to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用RING地址充值需要40个网络确认才能到账\n禁止向RING地址充值除RING之外的资产，任何充入RING地址的非RING资产将不可找回"
+}, {
+	"id": "1.3.1386",
+	"enable": true,
+	"enMsg": "Currently not available",
+	"cnMsg": "即将开放，敬请期待",
+	"projectName": "LC",
+	"tag": true,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 2 network confirmation\nSend only NWT to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用RING地址充值需要40个网络确认才能到账\n禁止向RING地址充值除RING之外的资产，任何充入RING地址的非RING资产将不可找回"
+}, {
+	"id": "1.3.1387",
+	"enable": true,
+	"enMsg": "Currently not available",
+	"cnMsg": "即将开放，敬请期待",
+	"projectName": "WePoS",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 2 network confirmation\nSend only NWT to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用RING地址充值需要40个网络确认才能到账\n禁止向RING地址充值除RING之外的资产，任何充入RING地址的非RING资产将不可找回"
+}, {
+	"id": "1.3.1391",
+	"enable": false,
+	"enMsg": "Currently not available",
+	"cnMsg": "即将开放，敬请期待",
+	"projectName": "Qlink",
+	"tag": false,
+	"enInfo": "Quickly and easily deposit funds into your Cybex account\nThis service is provided by Cybex gateway\nCoins will be deposited immediately after 2 network confirmation\nSend only NWT to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit",
+	"cnInfo": "您可以快速方便的充入资金到您的Cybex账户中\n瑶池（Jadepool）作为Cybex推荐的网关将为您提供这一服务\n使用RING地址充值需要40个网络确认才能到账\n禁止向RING地址充值除RING之外的资产，任何充入RING地址的非RING资产将不可找回"
+}]

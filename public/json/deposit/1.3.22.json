@@ -1,0 +1,53 @@
+{
+	"id": "1.3.22",
+	"icon_cn": {
+		"img_url": "https://static-assets.51nebula.com/asset-symbols/KEY.png",
+		"link": ""
+	},
+	"icon_en": {
+		"img_url": "https://static-assets.51nebula.com/asset-symbols/KEY.png",
+		"link": ""
+	},
+	"msg_cn": [{
+			"key": "项目名称",
+			"value": "Bihu KEY",
+			"link": ""
+		},
+		{
+			"key": "协议地址",
+			"value": "0x4cd988afbad37289baaf53c13e98e2bd46aaea8c",
+			"link":"https://etherscan.io/token/0x4cd988afbad37289baaf53c13e98e2bd46aaea8c"
+		}
+	],
+	"msg_en": [{
+			"key": "Project Name",
+			"value": "Bihu KEY",
+			"link": ""
+		},
+		{
+			"key": "Protocol Address",
+			"value": "0x4cd988afbad37289baaf53c13e98e2bd46aaea8c",
+			"link":"https://etherscan.io/token/0x4cd988afbad37289baaf53c13e98e2bd46aaea8c"
+		}
+	],
+	"notice_cn": {
+		"title": "注意！",
+		"main": "请务必只充入KEY资产",
+		"adds": [{
+			"text": "禁止向KEY地址充值除KEY之外的资产，否则将不可找回"
+		}, {
+			"text": "使用KEY地址充值需要30个网络确认才能到账"
+		}]
+
+	},
+	"notice_en": {
+		"title": "Important!",
+		"main": "Deposit KEY Only",
+		"adds": [{
+				"text": "Send only KEY to this deposit address. Sending any other coin or token to this address may result in the loss of your deposit"
+			}, {
+				"text": "Coins will be deposited immediately after 30 network confirmations"
+			}
+		]
+	}
+}
