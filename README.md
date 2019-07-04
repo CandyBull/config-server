@@ -30,15 +30,16 @@ test
 4. json/blockexplorer.json - 配置币种的区块链浏览器，拼接具体的hash查询交易信息 
 5. json/marketlists.json - 置顶交易对配置 
 6. json/nodes_config.json - 节点等服务器配置文件  
-	{
-		"mdp": "wss://rteuat.cybex.io",  // 获取快速行情服务器
-		"nodes": [ 
-			"ws://uatfn.51nebula.com" // 全节点
-		],
-		"limit_order": "ws://uatfn.51nebula.com",  // 订单服务器
-		"eto":"https://etoapi.cybex.io/api", // eto服务器
-		"gateway2":"https://gateway2test.cybex.io" // 网关服务器
-	}
+``` js
+{
+	"mdp": "wss://rteuat.cybex.io",  // 获取快速行情服务器
+	"nodes": [ 
+		"ws://uatfn.51nebula.com" // 全节点
+	],
+	"limit_order": "ws://uatfn.51nebula.com",  // 订单服务器
+	"eto":"https://etoapi.cybex.io/api", // eto服务器
+	"gateway2":"https://gateway2test.cybex.io" // 网关服务器
+}
 7. json/pairs.json - 配置交易对的价格等显示精度
 8. json/settings.json - 配置功能开关。比如打开/关闭ETO
 9. public/Android_update.json - 配置Android APP更新提示
