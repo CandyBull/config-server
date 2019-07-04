@@ -69,3 +69,15 @@ test
 8. json/settings.json - 配置功能开关。比如打开/关闭ETO
 9. public/Android_update.json - 配置Android APP更新提示
 10. public/iOS_update.json - 配置IOS APP更新提示
+
+## 常见配置
+
+上线新币和交易对：
+   - Cybex链创建代币，瑶池和网关配置好相关充提设置
+   - 上传新币icon到public/icons
+   - 添加币种id到assets.json
+   - 添加币种充提详细信息到json/deposit/xxxx.json  json/withdraw/xxxx.json 
+   - 添加交易对信息到bases.json文件
+   - 添加交易对精度配置到pairs.json
+   - 添加区块链浏览器信息到blockexplorer.json
+   注：MDP需要重启才能获取变化后的交易对信息，因此需要提前一天完成配置交易对信息
