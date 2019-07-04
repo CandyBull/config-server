@@ -20,7 +20,6 @@ sub 的 app中的config.js 也需要配置
 ## 使用
 
 npm run start 
-test
 
 # config and data server
 
