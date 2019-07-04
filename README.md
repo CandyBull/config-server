@@ -70,7 +70,7 @@ test
 9. public/Android_update.json - 配置Android APP更新提示
 10. public/iOS_update.json - 配置IOS APP更新提示
 
-## 常见配置
+## 常见操作
 
 上线新币和交易对：
    - Cybex链创建代币，瑶池和网关配置好相关充提设置
@@ -81,3 +81,34 @@ test
    - 添加交易对精度配置到pairs.json
    - 添加区块链浏览器信息到blockexplorer.json
    注：MDP需要重启才能获取变化后的交易对信息，因此需要提前一天完成配置交易对信息
+   
+ 配置交易对精度：
+ 
+ 以CYB/USDT为例说明
+ ``` 
+ "USDT": {     // base
+	"CYB": {
+		"info": {   // 交易所左上角区域
+				"last_price": "5",   // 最新价格，显示5位小数
+				"change": "5",  // 绝对价格涨跌，显示5位小数
+				"volume": "2" // 24小时成交额，显示2位小数
+			},
+		"book": {  // 订单表区域
+				"last_price": "5", // 最新价格，显示5位小数
+				"amount": "2", // 数量，显示2位小数
+				"total": "6" // 成交额，显示2位小数
+			},
+		"choose": { // 切换交易对区域
+				"last_price": "5", // 最新价格，显示5位小数
+				"volume": "2" // 24小时成交额，显示2位小数
+			},
+		"form": { // 下单区域
+				"min_trade_amount": "0.01", // 最小下单数量
+				"amount_step": "0.01", // 下单数量步长
+				"price_step": "0.00001",// 价格步长
+				"min_order_value": "0.002",// 下单最低成交额
+				"total_step": "0.000001"// 成交额步长
+			}
+		}
+ ``` 
+
