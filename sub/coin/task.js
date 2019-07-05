@@ -8,9 +8,9 @@ async function init (){
   addTask('5 seconds', 'sync_mytoken', async () => {
     await sync_mytoken()
   })
-  addTask('10 minutes','sync_coinmarket',async () => {
-    await sync_coinmarket()
-  })
+  // addTask('10 minutes','sync_coinmarket',async () => {
+    // await sync_coinmarket()
+  // })
 }
 
 module.exports = {
