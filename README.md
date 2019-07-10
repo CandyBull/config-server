@@ -72,7 +72,7 @@ test
 ## 常见操作
 
 上线新币和交易对：
-   - Cybex链创建代币,参照 https://github.com/CybexDex/config-server/blob/master/doc/cybex%E9%93%BE%E5%88%9B%E5%BB%BA%E4%BB%A3%E5%B8%81.pdf
+   - Cybex链创建代币,参照 https://github.com/CybexDex/config-server/blob/master/doc/createAsset.md
    - 瑶池和网关配置好相关充提设置
    - 上传新币icon到public/icons
    - 添加币种id到assets.json
