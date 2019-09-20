@@ -5,65 +5,67 @@ let fs = require('fs')
 let path = require('path')
 const Logger = require('../../lib/logger')
 let init_file = path.join(__dirname, 'init.json')
-let {get_mytoken} = require('../mytoken.js')
-let {get_coinmarket} = require('../price.js')
+let { get_mytoken } = require('../mytoken.js')
+let { get_coinmarket } = require('../price.js')
 let model = require('./model')
 let Cacher = require('../../lib/cache_helper')
-
+let request = require('request')
+const util = require('util')
+let r_get = util.promisify(request.get)
 let {
   cached
 } = new Cacher()
 
 let g = {
-  coins:  [],
+  coins: [],
   logger: new Logger('appserver', 'coin'),
   start_sync: false,
 }
 let coin2id
 let id2coin
-async function sync_mytoken(){
+async function sync_mytoken() {
   let s = await get_mytoken()
-  if (s.code == 0 ){
-    await model.msg.findOneAndUpdate({"key":"mytoken"},{"key":"mytoken","value":JSON.stringify(s)}, {
+  if (s.code == 0) {
+    await model.msg.findOneAndUpdate({ "key": "mytoken" }, { "key": "mytoken", "value": JSON.stringify(s) }, {
       upsert: true,
       new: true
     })
   }
   g.logger.log(JSON.stringify(s))
 }
-async function sync_coinmarket(){
+async function sync_coinmarket() {
   let s = await get_coinmarket()
-  if (s){
-    await model.msg.findOneAndUpdate({"key":"coinmarket"},{"key":"coinmarket","value":JSON.stringify(s)}, {
+  if (s) {
+    await model.msg.findOneAndUpdate({ "key": "coinmarket" }, { "key": "coinmarket", "value": JSON.stringify(s) }, {
       upsert: true,
       new: true
     })
   }
   g.logger.log(JSON.stringify(s))
 }
-async function price(){
-  let r = await cached("price",3,null,async ()=>{
-    let s = await model.msg.findOne({"key":"mytoken"})
-    if (s){
-      return JSON.parse(s.value)
-    }else{
+async function price() {
+  let r = await cached("price", 3, null, async () => {
+    let s = await r_get("https://app.cybex.io/price")
+    if (s) {
+      return JSON.parse(s.body)
+    } else {
       return {}
     }
   })
   return r
 }
-async function coinmarket_price(){
-  let r = await cached("coinmarket_price",60,null,async ()=>{
-    let s = await model.msg.findOne({"key":"coinmarket"})
-    if (s){
+async function coinmarket_price() {
+  let r = await cached("coinmarket_price", 60, null, async () => {
+    let s = await model.msg.findOne({ "key": "coinmarket" })
+    if (s) {
       return JSON.parse(s.value)
-    }else{
+    } else {
       return {}
     }
   })
   return r
 }
-async function init(){
+async function init() {
   try {
     g.coins = require(init_file)
   } catch (e) {
@@ -76,7 +78,7 @@ init()
 function load_quotas() {
   coin2id = _.mapValues(_.keyBy(g.coins, 'symbol'), i => i.id)
   id2coin = _.mapValues(_.keyBy(g.coins, 'id'), i => i.symbol)
-  let { from,base_config } = readbase()
+  let { from, base_config } = readbase()
   g.quotas = _.mapKeys(_.mapValues(base_config.bases, o => o.map(i => coin2id[i])), (v, k) => coin2id[k])
   return from
 }
@@ -136,8 +138,8 @@ async function sync_coins() {
 }
 function loadbase_config(base_id) {
   return {
-    base:base_id,
-    data:g.quotas[base_id]
+    base: base_id,
+    data: g.quotas[base_id]
   }
 }
 async function ticker(base, quote) {
@@ -145,7 +147,7 @@ async function ticker(base, quote) {
   return x
 }
 async function loadbase(base_id) {
-  let quotes =  loadbase_config(base_id)
+  let quotes = loadbase_config(base_id)
   if (quotes) {
     let a1 = quotes.data.map(i => ticker(base_id, i));
     let s1 = await Promise.all(a1)
@@ -154,16 +156,16 @@ async function loadbase(base_id) {
   }
   return null
 }
-async function market_price(base_id){
+async function market_price(base_id) {
   let keyname = `market${base_id}`
-  let r =  await cached(keyname,2,null,async ()=>{
+  let r = await cached(keyname, 2, null, async () => {
     await cybex.init()
-    if (base_id){
+    if (base_id) {
       let s = await loadbase(base_id)
       return s
-    }else{
+    } else {
       let base_ids = Object.keys(g.quotas)
-      let s = await Promise.all(base_ids.map(i=>loadbase(i)))
+      let s = await Promise.all(base_ids.map(i => loadbase(i)))
       return s
     }
   })
