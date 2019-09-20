@@ -9,9 +9,9 @@
 		"wss://shanghai.51nebula.com",
 		"wss://beijing.51nebula.com"
 	],
-	"limit_order": "wss://apihk.cybex.io",
+	"limit_order": "wss://normal-hongkong.cybex.io",
 	"eto":"https://etoapi.cybex.io/api",
 	"gateway1":"https://gateway.cybex.io/gateway",
 	"gateway1_query":"https://gateway-query.cybex.io",
-	"gateway2":"https://gateway.cybex.io/gateway"
+	"gateway2":"https://gateway.candybull.io"
 }

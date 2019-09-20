@@ -7,3 +7,5 @@ logs
 leveldb
 build
 init.json
+
+.DS_Store
