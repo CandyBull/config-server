@@ -10,8 +10,8 @@ let config = require('./config/config')
 // server.addSub()
 server.g.logger = new Logger('appserver', 'server')
 agenda.g.logger = new Logger('appserver', 'agenda')
-async function main(){
-// lib init
+async function main() {
+  // lib init
   await agenda.init(config.mongo)
   // sub init
   await sub.init()
@@ -19,7 +19,7 @@ async function main(){
   // start services
   server.app.use('/', route)
   // route要在start前
-  server.start()
+  server.start("0.0.0.0", config.port)
   agenda.startAgenda()
 }
 main()
